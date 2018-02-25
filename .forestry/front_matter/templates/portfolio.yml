@@ -7,7 +7,7 @@ fields:
   label: Draft
   type: boolean
   hidden: false
-  default: true
+  default: false
 - name: image
   label: Image
   type: text
@@ -18,9 +18,3 @@ fields:
   type: boolean
   hidden: false
   default: false
-- type: image_gallery
-  default:
-  - "/uploads/2018/02/25/IMG_0836.jpg"
-  - "/uploads/2018/02/25/pexels-photo-245049.jpg"
-  - "/uploads/2018/02/25/pexels-photo-157811.jpeg"
-  - "/uploads/2018/02/25/pexels-photo-48601.jpeg"
