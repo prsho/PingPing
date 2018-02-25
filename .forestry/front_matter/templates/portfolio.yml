@@ -1,6 +1,4 @@
 ---
-pages:
-- art.md
 hide_body: false
 fields:
 - name: draft
